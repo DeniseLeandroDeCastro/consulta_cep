@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Consulta CEP</string>
+
+    <!--    SearchAddressFragment-->
+    <string name="label_address_empty_search_address_fragment">Nenhum endereço encontrado com o cep digitado.</string>
+    <string name="label_enter_with_cep_search_address_fragment">Encontre o seu endereço</string>
+    <string name="label_cep_search_address_fragment">01311300</string>
+    <string name="text_button_save_search_address_fragment">Salvar</string>
+    <string name="tv_address_list">Lista de Endereços</string>
+    <string name="search_address">Busca de Endereço</string>
+    <string name="tv_info_cep">Insira apenas números sem pontos e nem traços.</string>
+</resources>
